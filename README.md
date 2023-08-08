@@ -29,7 +29,7 @@ Once you have cloned the repository, you can open the project in your preferred 
 
 # Project Structure
 
-![](https://github.com/salmakishk98/Recommender-systems-project/tree/main/scr)
+![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%20from%202023-06-25%2015-41-45.png)
 
 ---
 
