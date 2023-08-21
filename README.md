@@ -35,10 +35,18 @@ Once you have cloned the repository, you can open the project in your preferred 
 
 # App Interface
 
-![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%from%2023-08-21%17-54-45.png)
-![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%from%2023-08-21%17-55-10.png)
-![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%from%2023-08-21%17-55-21.png)
-![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%from%2023-08-21%17-55-30.png)
+![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%20from%202023-08-21%2017-54-45.png)
+---
+
+![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%20from%202023-08-21%2017-55-10.png)
+
+---
+
+![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%20from%202023-08-21%2017-55-21.png)
+
+---
+
+![](https://github.com/salmakishk98/Recommender-systems-project/blob/main/scr/Screenshot%20from%202023-08-21%2017-55-30.png)
 
 ---
 # Authors
