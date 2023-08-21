@@ -35,7 +35,10 @@ Once you have cloned the repository, you can open the project in your preferred 
 
 # App Interface
 
-![]()
+![](scr/Screenshot from 2023-08-21 17-54-45.png)
+![](scr/Screenshot from 2023-08-21 17-55-10.png)
+![](scr/Screenshot from 2023-08-21 17-55-21.png)
+![](scr/Screenshot from 2023-08-21 17-55-30.png)
 
 ---
 # Authors
